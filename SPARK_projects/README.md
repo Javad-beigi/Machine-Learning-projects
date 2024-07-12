@@ -28,7 +28,5 @@
     
 * Natural Language Processing
     * Introduction to Project/NLP/Naive Bayes Model
-    
-* Spark Streaming 
-    * Spark Streaming Code-along
+
 
